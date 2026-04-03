@@ -14,8 +14,8 @@
 - [Article 9 — The Glasgow Peace Is Tough Omission](#article-9--the-glasgow-peace-is-tough-omission "Article 9 — The Glasgow Peace Is Tough Omission")
 - [Appendix 1 — The Gift Prints](#appendix-1--the-gift-prints "Appendix 1 — The Gift Prints")
 - [Appendix 2 — VIP Rounds](#appendix-2--vip-rounds "Appendix 2 — VIP Rounds")
-- [Appendix 3 — The Corporate Map](#appendix-3--the-corporate-map "Appendix 3 — The Corporate Map") *(forthcoming)*
-- [Corporate Timeline](#corporate-timeline "Corporate Timeline") *(forthcoming)*
+- [Appendix 3 — The Corporate Map](#appendix-3--the-corporate-map "Appendix 3 — The Corporate Map") 
+- [Corporate Timeline](#corporate-timeline "Corporate Timeline") 
 - [Character Summaries](#character-summaries "Character Summaries") *(forthcoming)*
 
 ---
@@ -269,12 +269,218 @@ The VIP rounds are the place in the record where the structure is least anonymou
 ---
 
 ## Appendix 3 — The Corporate Map
-*(forthcoming)*
+---
+
+## Appendix 3 — The Corporate Map
+
+### Entity Network, Address Clusters, and the Durban Resignation as Structural Marker
 
 ---
 
+Every entity named in this appendix is registered at Companies House or an equivalent public registry. Every incorporation date, director appointment, resignation, and registered address cited here is derived from public filings. The map is not an interpretation of hidden information. It is a reading of visible information that has not previously been assembled in one place.
+
+What makes the corporate record evidentially significant is not any single filing but the pattern of relationships across filings. Entities that share directors, registered addresses, incorporation dates, or dissolution dates are entities that share operational relationships. The clustering of those relationships around a small number of individuals — and the concentration of resignations and dissolutions around two specific dates — is the corporate record's answer to the question of how the enterprise was structured and when it changed.
+
+---
+
+### The Founding Layer: 1997–1998
+
+**Turtleneck Ltd** (Companies House 03437278) is the earliest entity in the map with confirmed connections to the enterprise's principals. Incorporated 3 September 1997. SIC 82990. Founding members: Damien Hirst (50 shares, Devon address), Keith Allen (50 shares, NW3), Simon Jonathan Kennedy (50 shares, W10 — identity unconfirmed), Alex James (50 shares, WC2), Joe Strummer (50 shares, Somerset), Karen Jayde Milner (1 share, subsequently transferred to Hirst). The transfer of Milner's share to Hirst gave him effective majority control. The founding membership describes the intersection of the British art world, music industry, and film-adjacent creative network that constituted the social infrastructure of the enterprise's founding partners. Turtleneck is dissolved 6 July 2021 — two years after the structural wind-down.
+
+One year later, the operational layer begins. **Pro-Actif Communications** (Companies House 03597063) is incorporated 22 October 1998 as Identity Crisis Ltd — a name that did not survive two weeks before being changed to Pro-Actif on 11 November 1998. Still active. Darlington address. SIC 58190. The Steve Parkin connection places this entity inside the publishing and promotional infrastructure associated with the enterprise's northern England interests. The name change within the first fortnight of incorporation is the earliest instance in the record of the enterprise's characteristic practice of renaming entities to obscure their function and history.
+
+**GBFTCU Ltd** (Companies House 03592163) completes the 1998 founding layer. Incorporated as Electric Earth Records 12 November 1998 — three weeks after Pro-Actif. Renamed Underwater Records 14 May 2002 — the same month as the contractual partition that narrowed the Artist designation. Renamed GBFTCU 13 November 2007 — at the point of the enterprise's commercial maturation. Dissolved 16 July 2010. The three successive names track the enterprise's phases: music-adjacent founding infrastructure, transition through the 2002 partition, and the commercial peak.
+
+---
+
+### The Three Address Clusters
+
+The registered address of a UK company is a public filing. When multiple entities in a network share a registered address, the address is functioning as more than a postbox — it is a structural marker of operational relationship. The Banksy enterprise network organises itself around three address clusters, each corresponding to a distinct functional tier.
+
+| Address                        | Entities                                               | Function                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Maddox Street W1S 1QP          | POW, Dismaland, Paranoid Pictures, GDP, Outline Design | Primary commercial cluster. All major print editions, retail, and film entities.                                                                                                                |
+| New Street Square EC4A 3AQ     | MurderMe / Prints and Editions, Other Criteria         | Hirst cluster. Physically and structurally separate from Maddox Street, reflecting the separation of Hirst's individual commercial operation from the joint enterprise.                         |
+| Old Gloucester Street WC1N 3AX | PCO, BBAY Art                                          | Authentication and shadow secondary market cluster. The co-location of PCO and BBAY Art at the same address links authentication infrastructure directly to the parallel broker-dealer network. |
+
+Authentication and brokerage share a postbox.
+
+---
+
+### The Durban Network and the 7 November 2019 Resignation
+
+Simon Durban (born August 1970) is the most extensively documented individual in the corporate map outside of the named principals. Thirteen recorded directorships. His appointments span the full breadth of the enterprise: POW, PCO, Paranoid Pictures, Dismaland, GDP, LazInc, GBFTCU. The arc of those appointments — from LazInc director in 2007 through to the five simultaneous resignations in 2019 — maps the operational history of the enterprise's first generation.
+
+On 7 November 2019, Durban resigned simultaneously from five entities: POW, PCO, Paranoid Pictures, Dismaland, and GDP. Five resignations. One date. The significance of the synchronisation is structural. A director winding down involvement in multiple entities over time is an ordinary transition. A director resigning from five entities on the same calendar day is a negotiated exit — a single legal event rather than five separate decisions. 7 November 2019 is the real operational wind-down date of the enterprise's first-generation structure.
+
+The Durban post-board vehicle is Positive Accounting Solutions Ltd (Companies House 07802117), active. The name is legible as a description of function.
+
+---
+
+### The BBAY Network: Shadow Secondary Market Infrastructure
+
+The BBAY network is the most structurally complex element of the corporate map. Thirteen entities. Operational span 2009 to 2026. Primary SIC code 68100 — real estate. The network's function, as the corporate record describes it, is the maintenance of a shadow secondary market infrastructure running parallel to the authenticated primary market operated through PCO and POW.
+
+| Entity                                     | Incorporated | Dissolved | Notes                                                                                                                  |
+| ------------------------------------------ | ------------ | --------- | ---------------------------------------------------------------------------------------------------------------------- |
+| BBAY Ltd                                   | 2009         | 2017      | Parent entity. Successor: Many Hands Home Help Ltd, dissolved Oct 2020.                                                |
+| BBAY (Bushey) Ltd                          | Jul 2010     | Active    | Companies House 07311363. Wood Green. SIC 68100.                                                                       |
+| BBAY Art Ltd                               | Oct 2019     | Jan 2026  | Companies House 12281596. PCO address WC1N 3AX. SIC 90040. Dissolved post-proceedings.                                 |
+| Stamford UK Holdings (fka BBAY Properties) | 2008         | Active    | Millbank Tower. Renamed 20 Feb 2023 — 19 days after Jersey entity BBAY Eaton Place registered on UK overseas register. |
+
+The 19-day gap between the Jersey registration and the UK rename is the most precise timing marker in the network. BBAY Eaton Place registers in Jersey on a Monday. Nineteen days later, BBAY Properties renames itself Stamford UK Holdings in the UK filing. The sequence is a controlled asset migration: establish the receiving vehicle, then rename the originating vehicle to break the nominal connection. Both moves are public record. The gap between them is the operational signature.
+
+The directors of the core BBAY property cluster are Stephane Abraham Joseph Nahum (French, born December 1975) and William Richard Collins (British, born May 1946). Neither appears in the Maddox Street or New Street Square clusters. The BBAY network is structurally segregated from the primary enterprise address clusters — a parallel infrastructure with its own directorial layer.
+
+BBAY Art Ltd is the most evidentially significant entity in the network. Incorporated October 2019 — the same autumn as the Durban resignation. Registered at the PCO address, Old Gloucester Street WC1N 3AX. SIC 90040 — artistic creation. Dissolved January 2026, five weeks before the Ant and Dec High Court proceedings became public record.
+
+---
+
+### The Hirst Offshore Layer
+
+Science Ltd is a Jersey-registered company (Channel Islands registration FC029278). Previous name: Hirst Holdings Limited, which it held from 10 November 2009 to 12 May 2011. UK establishment opened 24 August 2009 at 14 Welbeck Street W1G 9XU, closed 24 February 2014.
+
+The rename from Hirst Holdings to Science Ltd in May 2011 — eighteen months after the UK establishment opened — follows the pattern established elsewhere in the corporate record: nominal obscuration concurrent with operational continuity.
+
+The MurderMe to Prints and Editions rename on 29 January 2020 falls in the same week as the PCO acquisition by POW. The synchronisation of the Hirst vehicle rename and the vertical consolidation event is a coordinated restructuring: the joint enterprise closes into a single corporate structure while the Hirst individual vehicle simultaneously obscures its prior operational identity.
+
+---
+
+### The Lazarides Separation: 2008–2009
+
+The Lazarides separation is documented through two corporate events: the share buyback in October 2008, and Simon Durban's resignation from LazInc in March 2009.
+
+Laz held the director position at LazInc from 2004 through to 2020. Durban held the secretary position from February 2006 to March 2009. The Durban departure from LazInc in March 2009 is the confirmation marker for the separation: Durban, as the enterprise's internal operational administrator, is no longer performing that function for the Lazarides vehicle after March 2009. The share buyback in October 2008 is the financial mechanism; the Durban resignation from LazInc is the administrative confirmation.
+
+Post-separation, the Lazarides network continues independently. Outsiders and Execution Prints dissolve on the same day in July 2015. Laz Emporium remains active with overdue accounts. Object of Desire operates from Harrow. Rivers Threadneedle entered liquidation February 2025. Alchemy III Luxembourg (B2044201) lists Laz as director March 2016 to November 2020.
+
+---
+
+### The Two Pivot Dates
+
+The corporate map resolves around two pivot dates. Everything before 7 November 2019 is first-generation structure. Everything after January 2020 is second-generation structure. The two dates are separated by ten weeks.
+
+**7 November 2019:** Durban resigns from five entities simultaneously. The first-generation operational administration ends.
+
+**January 2020:** POW acquires PCO. MurderMe renames to Prints and Editions. The vertical consolidation is complete. The authentication body and the commercial body are now a single corporate structure.
+
+The 2025–2026 dissolution cluster is the controlled retreat of the second-generation structure as legal exposure arrives.
+
+| Entity                             | Date        | Significance                                                                                            |
+| ---------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
+| Moonstar Fine Arts Advisors LLC    | 26 Sep 2025 | Florida administrative dissolution. Pass-through vehicle dissolved as legal exposure increases.         |
+| Slap Dash Inc                      | Sep 2025    | Companies House 10212238. Holly Cushing-associated entity. SIC 90040. Dissolved same month as Moonstar. |
+| BBAY Art Ltd                       | Jan 2026    | Dissolved five weeks before Ant and Dec proceedings became public record.                               |
+| Ant and Dec High Court Proceedings | Mar 2026    | 22 art transactions. Fraud allegations. Party X and Company X unnamed. Judge Iain Pester.               |
+
+The seven-month sequence from Moonstar's dissolution to the High Court filing is the leading edge of the legal reckoning the enterprise's structure was always designed to defer.
+
+---
+
+Every date in this map is a public record. Every entity is registered. Every director appointment and resignation is filed. The map was always available to anyone who looked for it. This appendix is the record of having looked.
+
+*— Appendix 3 of The Banksy Codex. Proceed to the Corporate Timeline.*
+
+---
+
+
 ## Corporate Timeline
-*(forthcoming)*
+
+### A Chronological Record of the Enterprise's Formation, Operation, and Unwinding
+
+---
+
+The timeline below is a chronological record of the corporate and operational events that constitute the evidentiary spine of this investigation. It is not a history of Banksy artworks. It is a history of the enterprise that produced them. Every date is drawn from public filings and public records. Where the record moves from fact to inference, that shift is marked. The pattern of events is the argument. Any single event is just a filing.
+
+---
+
+### Era 1 — Foundation: 1997–1998
+
+Something is being assembled before anyone knows what it will become. The brand name is not fixed. The artist designation is not formalised. The corporate infrastructure is arriving ahead of the product it will eventually house.
+
+In August 1997 a flyer circulates for Walls on Fire at Bristol Docks. It is signed "Banks." One letter short of the name that will eventually be worth hundreds of millions of pounds. The infrastructure, meanwhile, is already moving. On 3 September 1997, three weeks after that flyer, **Turtleneck Ltd** is incorporated. The share register reads like the guest list for a particular kind of late-nineties British cultural party: Damien Hirst with 50 shares from a Devon address, Keith Allen with 50 from NW3, Alex James with 50 from WC2, Joe Strummer with 50 from Somerset, Simon Jonathan Kennedy with 50 from W10 — identity still unconfirmed in the public record — and Karen Jayde Milner with a single share that will subsequently be transferred to Hirst, giving him effective majority control. SIC 82990: other business support service activities not elsewhere classified. The founding partnership is encoded in the share register before the enterprise has a name to trade under.
+
+One year passes. Then in the space of three weeks in October and November 1998, the operational layer arrives in sequence. On 22 October 1998, **Identity Crisis Ltd** is incorporated at a Darlington address with SIC code 58190 — publishing. The name does not survive a fortnight. On 11 November 1998 it becomes **Pro-Actif Communications Ltd**, still active to the present day. The rename within the first twenty days of incorporation is the earliest instance in the record of the enterprise's characteristic practice: name an entity something, then change it before anyone has noticed what it was called. Three weeks after Pro-Actif, on 12 November 1998, **Electric Earth Records Ltd** is incorporated. This is the Artist's vehicle. Music-adjacent, unassuming, exactly the kind of entity that passes unremarked in a filing search. The founding layer is complete.
+
+---
+
+### Era 2 — Expansion: 2002–2008
+
+The pre-canonical period closes with a contractual event that leaves a trace in the corporate record. In May 2002, Electric Earth Records is renamed **Underwater Records Ltd**. The rename is administrative. What it marks is not. May 2002 is the month of the contractual partition that narrows the artist designation — the decision that confirms Lucy McKenzie as the hand and Damien Hirst as Artist of Record. Bernie Reid's canvas editions produced before this date are grandfathered. Everything after runs under the formalised terms. The vehicle's name tracks the enterprise's phase like a geological marker.
+
+The commercial infrastructure assembles through the middle years of the decade. **Pictures on Walls Ltd** becomes the primary print editions vehicle operating from Maddox Street W1S 1QP. The Lazarides gallery relationship formalises when Laz is appointed director of LazInc in 2004, the same year Durban joins the POW board. In February 2006, Durban is appointed secretary of LazInc — his Watford address appears on the filing. Durban is now administratively bridging POW and LazInc simultaneously. The two operations share an operational administrator. In 2006, Warren is fired following the Santa's Ghetto debacle. Eine is fired in the same period after the eBay backdoor print scandal. The enterprise enforcing its exclusivity terms, and making visible that it has them to enforce.
+
+**Barely Legal** in Los Angeles in 2005 takes the enterprise transatlantic. The Kate Moss editions are produced. The print programme expands. The market is building toward something.
+
+On 13 November 2007 Underwater Records becomes **GBFTCU Ltd** — the second and final rename of the Artist's vehicle. The name is a pointed statement. The Artist renegotiates to remain for the full project lifecycle. Commercial maturation and the vehicle's final name arrive together.
+
+January 2008: **Pest Control Office Ltd** is incorporated at Old Gloucester Street WC1N 3AX. Durban is founding director. Holly Cushing joins as Secretary. The authentication function, previously informal, is now a separate legal entity with its own address. PCO and POW are distinct corporate structures sharing personnel. July 2008: **Paranoid Pictures Film Company Ltd** incorporated at Maddox Street. Durban director. The film production vehicle for what will become Exit Through the Gift Shop. August 2008: the BBAY property cluster core entities begin incorporating. A shadow secondary market infrastructure, running at the SIC 68100 real estate code, assembling quietly alongside the primary market apparatus.
+
+Then September 2008: **Beautiful Inside My Head Forever** at Sotheby's. £111 million. The market peak. The enterprise at the top of its first arc.
+
+One month later, in October 2008, the Lazarides share buyback completes. The financial mechanism of the separation. On 25 April 2008 — six months earlier, anticipating the restructuring — **Moonstar Fine Arts Advisors LLC** had been incorporated in Florida. A pass-through advisory vehicle incorporated early enough to claim institutional longevity, dormant publicly through the bubble years, present in the record as a named vehicle should attribution ever become necessary.
+
+---
+
+### Era 3 — Schism and Consolidation: 2009–2018
+
+The separation completes administratively in March 2009 when Durban resigns from LazInc. The share buyback was the financial event. This is the operational confirmation. Durban, as the enterprise's internal administrator, is no longer performing that function for the Lazarides vehicle. The bridge is down.
+
+The schism's root is structural. Hirst chose monopoly over emeritus. The multi-artist diversification plan — Lucy McKenzie's walk-away deal, the condition on which the original terms had been accepted — is abandoned. Hirst goes all-in on himself and Banksy. The LA print run in 2009 and 2010 is the proximate cause of the artist's withdrawal: POW jumped the gun on print quality and violated the artist's final say over the editions. On 16 July 2010, **GBFTCU Ltd is dissolved**. The Artist's corporate vehicle is wound down. The loan-out structure ends. The enterprise attempts to operate without its artist.
+
+**King Robbo** in 2011 is the market's verdict on that attempt. A flop. The artist is needed. The enterprise cannot sustain the brand without Lucy McKenzie's hand.
+
+The re-engagement comes in 2012. **Evil Under the Sun** for the Fiorucci Foundation. The condition on which the artist returns is a new capitalisation round. Round 1 had closed around Love Hurts in 2012 — sixteen signed APs, never public, the Art in Streets context — with fifteen syndicate members plus artist, Artist of Record, gallery, and Paranoid Pictures. The cap table encoded in the edition structure. Pitt-Jolie as Round 1 backers. Round 2 follows in 2014: **Dumbo**, twenty-five signed, ten/fifteen split, never public, VIP price thirty-five thousand pounds. Louis Vuitton as the hypothesised Round 2 anchor. The round funds **Dismaland** in 2015, the **Walled Off Hotel** in 2017, and Hirst's Wreck of the Unbelievable — for which the edition-of-two with five artist proofs encodes Lucy McKenzie's participation in a project nominally attributed to Hirst.
+
+Concurrent with the Round 2 capitalisation period, Kerri McKenzie completes her Oxford HPS metaphysics fundamentality PhD in 2012. The written Banksy voice completing her academic formation while the enterprise restructures around the re-engagement terms.
+
+In 2013 Holly Cushing becomes PCO Director — her role at the authentication body formalised at its highest level. In July 2015, **Outsiders and Execution Prints dissolve on the same day** — the Lazarides network following the same synchronised dissolution practice as the main enterprise, two entities wound down with one operational decision. October 2018: **Girl with Balloon shreds at Sotheby's**. The shredder pre-installed in the frame. The enterprise's most public brand event.
+
+---
+
+### Era 4 — Vertical Consolidation: 2019–2020
+
+Ten weeks. Two events. The first-generation structure ends.
+
+In October 2019, **BBAY Art Ltd** is incorporated at Old Gloucester Street WC1N 3AX — the PCO address. SIC 90040: artistic creation. The shadow secondary market vehicle and the authentication body now share a postbox. On **7 November 2019**, Simon Durban resigns simultaneously from POW, PCO, Paranoid Pictures, Dismaland, and GDP. Five entities. One date. A director winding down involvement in multiple entities over time is an ordinary transition. A director resigning from five entities on the same calendar day is a negotiated exit — a single legal event, not five separate decisions. 7 November 2019 is the real operational wind-down date of the enterprise's first-generation structure. The post-board vehicle is Positive Accounting Solutions Ltd. The name is legible as a description of function.
+
+Ten weeks pass. On **29 January 2020**, MurderMe Ltd is renamed **Prints and Editions Ltd** at New Street Square. The same week, **PCO is acquired by POW**. The vertical consolidation is complete. Authentication and commercial operation are a single corporate structure. The Hirst print vehicle has a new name. The enterprise has folded into itself.
+
+On 6 July 2021, **Turtleneck Ltd is dissolved** — the founding entity of September 1997 formally closed, two years after the structural wind-down it preceded by twenty-two years.
+
+---
+
+### Era 5 — Controlled Retreat: 2021–2026
+
+The peripheral layer dissolves. The legal exposure materialises.
+
+In February 2023 a Jersey entity, **BBAY Eaton Place**, is registered on the UK overseas register. Nineteen days later, on 20 February 2023, **BBAY Properties Ltd** is renamed **Stamford UK Holdings** at its Millbank Tower address. Establish the receiving vehicle, then rename the originating vehicle to break the nominal connection. Both moves are public record. The nineteen-day gap is the operational signature.
+
+From September 2024 to February 2025, Lucy McKenzie's **Super Palace** exhibition runs at Z33, Belgium. A Bacon gambling den mural. An Epstein/American Psycho mural. A Trans-Siberian panorama. The show closes February 2025. The High Court proceedings are filed the following month.
+
+In February 2025, **Rivers Threadneedle** — the most recent Lazarides vehicle — enters liquidation. The Lazarides network reaching its terminus.
+
+Then the dissolution cluster arrives in sequence. **Moonstar Fine Arts Advisors LLC** is administratively dissolved in Florida on 26 September 2025 — incorporated April 2008, dissolved September 2025, dormant publicly for seventeen years between those dates. **Slap Dash Inc** (Companies House 10212238), the Holly Cushing-associated vehicle at SIC 90040, dissolves the same month. **BBAY Art Ltd** dissolves in January 2026 — five weeks before the Ant and Dec High Court proceedings become public record. In March 2026 the proceedings are filed before Judge Iain Pester: twenty-two art transactions, fraud allegations, Party X and Company X unnamed.
+
+The seven-month sequence from Moonstar's dissolution to the High Court filing is not a coincidence of calendar. It is a controlled retreat. The peripheral advisory and secondary market management layer winding down as the legal exposure it was designed to manage arrives anyway.
+
+---
+
+### Three Partition Events
+
+The corporate record resolves around three moments that divide everything before from everything after.
+
+**May 2002** narrows the artist designation and locks the core structure. Everything before is pre-canonical. Everything after runs under the formalised terms.
+
+**October 2008 – March 2009** removes the enterprise's street-credibility infrastructure and gallery front. The Lazarides separation is complete when Durban's administrative bridge between POW and LazInc is taken down.
+
+**7 November 2019 – January 2020** ends the first-generation structure and folds the enterprise into a single corporate body. The Durban resignations are the operational wind-down. The PCO acquisition is the structural completion.
+
+The dissolution cluster of 2025–2026 is not a fourth partition. It is the arrival of consequences that the structure was always designed to defer.
+
+---
+
+*— Corporate Timeline of The Banksy Codex. Proceed to Character Summaries.*
 
 ---
 
