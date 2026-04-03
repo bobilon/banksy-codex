@@ -266,11 +266,6 @@ The VIP rounds are the place in the record where the structure is least anonymou
 
 ---
 
----
-
-## Appendix 3 — The Corporate Map
----
-
 ## Appendix 3 — The Corporate Map
 
 ### Entity Network, Address Clusters, and the Durban Resignation as Structural Marker
@@ -594,3 +589,225 @@ The dissolution cluster of 2025–2026 is not a fourth partition. It is the arri
 [^51]:	King Robbo: London graffiti artist. 2009 overpainting by Banksy, subsequent restoration works = evidence of required street credibility re-engagement. Robbo died 2014.
 
 [^52]:	NAPALM/SERPENTINE box set: edition of 50, 29 APs. 29 only resolves with Hirst excluded from the allocation as a condition of the artist's re-engagement.
+
+---
+
+## Character Summaries
+
+### The Principal Figures of the Banksy Enterprise
+
+---
+
+These summaries do not repeat the full evidentiary record laid out in the preceding articles and appendices. They work from that record. Each profile states what the evidence establishes, what it permits as inference, and what role each person played in the structure. Inference is marked throughout. The standard is the same one that runs through the rest of this document: here is the object, here is what it contains, here is what the corporate record says happened around it.
+
+---
+
+### Lucy McKenzie
+
+In the winter of 1995, a Scottish teenager publishes a four-page article in the fourth issue of her homemade zine, Violet. The article is called "Prostitute Cards" and presents itself as a collection of sex worker advertisements gathered from London phone boxes. Most of the ads are genuine. One is not. The fake ad — "Spanking by Angry Miss" — is Lucy McKenzie's own creation, inserted into the documentary record without identification. The tell, if you know what you are looking at, is the logo: a spanked figure with its hand cropped precisely at the wrist, assembled by photocopier, the vertical seam of the composition visible if you look for it. She is seventeen or eighteen years old. She has already worked out that the most interesting place for an image to live is inside a document that claims to be something else.
+
+Nine years later, in 2004, a document surfaces in the Lazarides archive designated Lot 51. It is a Banksy working document from a web design meeting — corporate, functional, present at the moment the enterprise is consolidating its commercial infrastructure. The cropped wrist logo is there. Centered. Enlarged. More balanced than the 1995 version, the composition refined through a decade of the artist's development. Below the logo, a caption has been added: "I love my job." The logo is not a reference to McKenzie's work. It is McKenzie's work, carried forward. Artists mine their own material. They return to their own weird teenage experiments across decades. What they do not do is champion other people's weird content niches with intimate, instrumental familiarity. The 1995 ad and the 2004 document share an author. The corporate record says who that author was working for in 2004.
+
+Three years after Lot 51, in 2007, the auction catalogue for what is advertised as the Lazarides auction lands. The cover is a sophisticated technicolour tableau of sex worker cards — the full realisation of the concept first sketched in 1995. Below a post-it advertising the auction, printed in barely visible orange-on-orange text, is the caption from the 2004 meeting document: "I love my job." This is not the fake ad. It is the specific phrase that appeared in the private document — deployed now as an invisible farewell message timed to the moment the relationship with Lazarides ends. The auction generates three million pounds. The proceeds fund the Lazarides exit package. Pest Control Office is incorporated in early 2008, the authentication body formalised as a separate entity in the immediate aftermath. The three-document chain runs from a teenage zine to a corporate meeting document to a farewell encoded in an auction catalogue — twelve years, one author, one continuous thread of self-referencing, self-mining, fiction-reality boundary testing. This is not coincidence. This is the concentrated essence of a practice.
+
+What the practice requires, technically, is the capacity to approximate the visual appearance of stencilled spray paint through hand-applied media — to produce surfaces that read as mechanical when they are not. This is trompe l'oeil. It is the discipline of painting something to look like something else, of making the hand invisible in the object it has made. It is technically demanding. It is Lucy McKenzie's primary technical practice. In 2018 she produces a replica of Meredith Frampton's Still Life 1938 that improves on the original through more exact execution, integrating trompe l'oeil effects that paint the original's frame into the work itself — completing in six weeks what took Frampton a year. The same technical facility that allows her to outpaint a mid-century master is the facility the Banksy graphic vocabulary requires. The match between the skill the work demands and the skill she demonstrably possesses is not coincidental.
+
+She was present in the pre-canonical network. Glasgow Peace Is Tough, 2001: the exhibition curated by Bernie Reid, a year before the May 2002 contractual partition. McKenzie participated as a fine artist exhibiting her own work. Reid is the same Reid credited on the Untitled 06 edition. The show is omitted from the official Banksy enterprise record. The Glasgow omission is not an oversight. It is the enterprise's acknowledgment that her presence there is something it cannot afford to have publicly connected to the Banksy timeline.
+
+The doubling motif encodes the two-person creative relationship in the formal structure of the works themselves. Untitled 1 and Untitled 2. The Olympia photographs, with their doubled representation. The artist embedding the structure of the enterprise into the visual grammar of the objects. These are not coincidences of composition. They are a signature written into the work for anyone willing to read it.
+
+The corporate vehicle — Electric Earth Records, incorporated November 1998; Underwater Records after May 2002; GBFTCU after November 2007; dissolved July 2010 — tracks every phase of her engagement with the enterprise. The May 2002 rename coincides with the contractual partition. The November 2007 rename coincides with the commercial peak. The July 2010 dissolution coincides with the withdrawal after the LA print run violation. The re-engagement in 2012 follows the Round 2 capitalisation. Every transition in the vehicle's history corresponds to a transition in the artist's relationship to the enterprise. A corporate vehicle does not change its name three times and dissolve at the exact moments that correspond to the turning points of an artist's working relationship unless the vehicle is the working relationship.
+
+The Venice collaboration with Reba Maybury — PERVERT OR DETECTIVE?, Ca'Buccari, May to June 2025 — is the thirty-year arc closing. The dominatrix and documentation themes that began in Violet #4 in 1995, ran through Lot 51 in 2004 and the 2007 catalogue, resurface in the institutional gallery context of 2025 under McKenzie's own name. The Super Palace show at Z33 in Belgium, September 2024 through February 2025 — the Bacon gambling den mural, the Epstein/American Psycho mural, the Trans-Siberian panorama — closes in February 2025. The High Court proceedings are filed in March 2026.
+
+She is the only individual in the record whose documented technical practice, institutional presence in the pre-canonical network, physical proximity to the anomalous edition objects, and traceable corporate vehicle all align simultaneously with the requirements of the Artist function. The three-document chain from 1995 to 2007 is the forensic signature. The trompe l'oeil practice is the technical qualification. The Glasgow omission is the enterprise's own acknowledgment of the connection it cannot afford to make visible. The corporate vehicle is the administrative record of the working relationship across its full operational span.
+
+The inference — stated as inference — is that Lucy McKenzie is the hand behind the Banksy visual vocabulary. The evidence that leads to that inference is public, documented, and assembled here in full.
+
+---
+
+### Kerri McKenzie
+
+The written Banksy voice is not the voice of a working-class Bristol graffiti artist. It is too compressed. Too structurally controlled. The aphorisms are formally precise in the way that formally trained philosophical writing is precise — the apparent simplicity of the statement is the product of discipline, not of absence of discipline. A surface that looks like it costs nothing to produce is the most expensive surface there is. That is trompe l'oeil. It is also the logic of Kerri McKenzie's academic practice.
+
+Kerri McKenzie holds an Oxford degree in physics and philosophy. She completed her HPS metaphysics fundamentality PhD in 2012. She is currently a professor of philosophy at UCSD. Her published academic work addresses fundamentality, dependence, and the metaphysics of physical structure — the philosophical investigation of the relationship between what appears at the surface and what is structurally determinative underneath. The parallel between that preoccupation and the enterprise's operating logic is not decorative. An enterprise built on the premise that a painted surface is not what it appears to be, that a street intervention is institutional critique, that an anonymous brand is a corporate joint venture — that enterprise and a philosopher of surface-and-substrate are not occupying adjacent territory by accident. The traces of that training are in the written output. The register of the Banksy texts — sardonic, compressed, apparently anti-intellectual but structurally very controlled — is exactly what a physics-philosophy Oxford graduate produces when she decides to make something look effortless.
+
+The PhD completion in 2012 is concurrent with the Round 2 capitalisation period and the artist's re-engagement. A person managing two parallel careers — academic philosopher finishing her doctorate, conceptual author of the world's most commercially successful anonymous art enterprise during its most ambitious institutional expansion — would complete her academic formation at precisely the moment both careers were reaching their respective peaks. The timing is consistent with that description.
+
+Lucy brings Kerri in. That is the family logic of the enterprise's founding. Lucy is already in the Hirst orbit by 1998 — the Saatchi purchase of the Olga painting places her visible in the London market at exactly the moment the deal locks. Kerri's entry is not ideological or artistic in the first instance. It is familial. The written voice, the conceptual artist designation, the Instagram, the published persona — those accrue to Kerri because she is already there, because her skill set fills a gap the enterprise needs filled, and because a physics-philosophy Oxford graduate writing about Kippenberger is already producing the register the Banksy texts require.
+
+The Global Joy triptych at Galerie Buchholz in 2001 — Untitled 2001, Keith, and Kerri — is the moment Kerri McKenzie as author comes into institutional existence simultaneously with Lucy locking their first services contract. The triptych hung as a theoretical sequential work at Lucy's first major show and appeared as a single work in the 2002 catalogue. That is the doubling encoded at the institutional origin point: one show, one contract, two people, one work.
+
+Her evidentiary position is strong but more inferential than Lucy's. No single object in the physical record carries her credit the way the Untitled 06 edition carries Reid's or the three-document chain carries Lucy's. The evidence is structural and pattern-based — the academic record, the publication register, the career timing, the philosophical preoccupations visible in the written output. It is the right kind of evidence for the right kind of function. The voice leaves different traces than the hand. Both kinds of traces are in the record.
+
+---
+
+### Bernie Reid
+
+Bernie Reid is a Scottish artist. He is the lead curator of Glasgow Peace Is Tough in 2001. Lucy McKenzie participates in that show as a fine artist exhibiting her own work. The show is omitted from the official Banksy enterprise record. The omission is the enterprise's own acknowledgment that Reid's curatorial credit and McKenzie's participation in the same documented exhibition cannot coexist in the canonical record with the legend of Banksy as a Bristol working-class graffiti artist operating independently of any institutional Scottish fine art network.
+
+The Untitled 06 edition is ten works sent from Switzerland. Bernie Reid is credited. It is a closed edition that arrived without announcement and that the market did not notice at the time of its release. The credit is not hidden. It is present in the documentation and has been present since the edition closed. A prize Banksy print in a closed edition of ten from Switzerland with a named Scottish artist credited was always available to anyone who looked at it carefully. The investigation looked at it carefully.
+
+His pre-2002 canvas editions are grandfathered by the May 2002 contractual partition. They are absorbed into the canonical record as foundational works rather than excised as pre-contractual anomalies, because the partition cannot rewrite what already exists in the market without producing anomalies more damaging than the works themselves. The grandfathering is a structural concession: the record accommodates Reid's prior output by making it pre-natal Banksy rather than collaborative work produced outside the enterprise's formal structure.
+
+His position in the founding creative layer is the Scottish counterpart to Laz's position in the Bristol-facing operational layer. The geographical split is 1/5 English, 4/5 Scottish. Reid is part of the 4/5. The Untitled 06 edition is the trace he left in the documented record that the enterprise chose not to obscure — whether because nobody was examining editions sent from Switzerland at the time, or because the grandfathering logic required his credit to remain visible as proof that the pre-canonical collaborative record had been properly absorbed.
+
+---
+
+### Damien Hirst
+
+The Turtleneck Ltd share register of September 1997 is not a list of people who will make Banksy works. It is a list of people who will make the enterprise that makes Banksy possible. Damien Hirst is at the top of that list with 50 shares and a Devon address, and Karen Milner's single share is transferred to him giving effective majority control before the enterprise has a commercial product. He does not need creative control because he already has financial control. Those are different things, and the enterprise understood the difference from the beginning.
+
+His function is the Artist of Record: the legal and commercial identity that underwrites the enterprise's market activity. It is not the function of making the works. He is the person whose name the market trusts, whose institutional position gives the enterprise legitimacy, whose legal identity the distribution infrastructure requires. Without that function, the enterprise is an anonymous operation with no route to market. With it, the enterprise has the institutional backing of the most commercially successful British artist of the postwar period and every gallery, auction house, and collector relationship that comes with it.
+
+The edition structures are where his position in the architecture is readable most precisely. The Wreck of the Unbelievable edition-of-two with five artist proofs encodes Lucy McKenzie's participation in a Hirst-branded project — five proofs, in the Hirst vehicle, on the Hirst terms, with the number doing the work the contract cannot say aloud. The NAPALM/SERPENTINE box set — fifty in the edition, twenty-nine artist proofs — resolves only if Hirst is excluded from the standard twenty-two AP allocation by the artist as a condition of production. Twenty-nine only makes structural sense with Hirst outside the fifty. Both structures are contractual statements written into edition architecture rather than into any filing. Both are readable only if you know what the standard allocation looks like and can identify what has been removed from it.
+
+The schism originates with his decision. In 2009 Hirst abandons the multi-artist diversification plan — the arrangement under which the enterprise would have built a stable of artists, with Banksy as the flagship but not the monopoly. He goes all-in on himself and Banksy instead. That decision breaks Lucy McKenzie's walk-away deal. The LA print run violation follows: POW moves on print quality without the artist's sign-off, the final-say clause in the ten-year deal is breached, and the artist withdraws. The enterprise spends two years without its hand. King Robbo in 2011 is the market's verdict.
+
+The re-engagement comes on the artist's terms. New capitalisation. New structural conditions. The Hirst individual commercial layer — MurderMe Ltd at New Street Square, Science Ltd in Jersey operating as Hirst Holdings until May 2011, Other Criteria — runs parallel to the joint enterprise throughout and is never fully subsumed into it. The MurderMe to Prints and Editions rename on 29 January 2020, the same week as the PCO acquisition by POW, is the vertical consolidation's Hirst-side signature: the individual vehicle obscuring its operational history at the exact moment the joint enterprise folds into a single structure.
+
+His evidentiary position is the most thoroughly documented of any principal in the corporate record. The Turtleneck founding membership, the New Street Square cluster, the Science Ltd Jersey chain, the MurderMe rename — all are public filings that establish his position as the financial and legal controlling interest without requiring any inference about creative function. The corporate record is unambiguous about what he holds. The edition record is unambiguous about what that holding cost.
+
+---
+
+### Jefferson Hack
+
+Jefferson Hack co-founded Dazed and Confused in 1991. By 1998, the year Electric Earth Records and Pro-Actif Communications are incorporated and the enterprise's operational layer assembles, Dazed is the editorial infrastructure through which the British art world's emerging generation moves its images and its ideas. Hack has the relationships. He has the magazine. He has the institutional position that makes a new brand's cultural insertion possible in a way that no amount of street credibility alone can achieve.
+
+The insider testimony confirms what the corporate record implies: Dazed and Confused and Dazed Digital were the publishing arms of Banksy. The publicist, Jo Brooks, would go to Dazed first and then to press releases second. That pipeline — from the enterprise's press function directly to Hack's magazine before any other outlet — is not a media relationship. It is an editorial arrangement. Hack is not covering Banksy. Hack is publishing Banksy through the vehicle he controls, with the enterprise's press function as the upstream source. The distinction between journalism and infrastructure is the distinction between a magazine that covers a story and a magazine that is part of the story's distribution mechanism.
+
+His function in the founding partnership is the publishing and media relationships node: the person whose editorial connections to Dazed, to the broader Hack circle that included Steve Beale at Sleaze Nation, to the network of publications that constituted the cultural press of the late 1990s and early 2000s, provided the enterprise with a publicity channel that was simultaneously prestigious and controlled. Publicity ran through Dazed, not through Laz. Laz was the photographer. Hack was the editor. The images went through Laz's camera and onto Hack's pages, and those are different functions. Laz produced the documentation of the street work. Hack determined where that documentation was published and in what context.
+
+The Baron Cohen connection runs through Hack's editorial relationships, not through any separate film industry introduction. Hack had the relationships with the people who would become Exit's creative infrastructure because those relationships were already in place through Dazed. The film did not require Hack to build new connections. It required him to apply connections he already held to a project the enterprise had decided to make.
+
+What he has said about the enterprise publicly is consistent with his function as a publishing partner who has maintained the enterprise's protocols throughout. What he has not said is the more informative record.
+
+---
+
+### Simon Durban
+
+He is born in August 1970 and his name appears on thirteen Companies House appointments across the enterprise's corporate cluster. POW director from 2005. PCO founding director from January 2008. Paranoid Pictures. Dismaland. GDP. GBFTCU secretary from April 2006. LazInc director August 2007 to May 2008, LazInc secretary February 2006 to March 2009. The appointments span every tier of the enterprise's first-generation structure. The span is not the record of a peripheral figure. It is the record of the person who held the structure together administratively across its full commercial lifespan.
+
+From February 2006, Durban holds the secretary position at LazInc while simultaneously holding director positions at POW and, from 2008, PCO. He is the administrative bridge between the two operations at exactly the moment of their closest alignment — the period when the enterprise's commercial infrastructure and its street credibility infrastructure are running through the same individual. His Watford address appears on the LazInc filing. He is not a London art world figure. He is the man who does the paperwork, and the paperwork is in his name because the people whose enterprise it is need their names elsewhere.
+
+The LazInc secretary resignation in March 2009 is the filing-level marker of the Lazarides separation. The share buyback in October 2008 is the financial event. This is the administrative confirmation. Durban no longer performing the secretary function for the Lazarides vehicle means Durban is no longer the administrative bridge between the two operations. The bridge comes down in March 2009. That is the precise moment the separation is complete.
+
+On 7 November 2019 he resigns simultaneously from POW, PCO, Paranoid Pictures, Dismaland, and GDP. The question is not why he resigned — people leave roles. The question is why five resignations carry the same date. A director winding down involvement over time would have five different dates across months or years. A director executing a negotiated exit has one. The synchronisation is not administrative convenience. It is a single legal decision expressed as five simultaneous filings. 7 November 2019 is the real operational wind-down date of the enterprise's first-generation structure, and the precision of the date — fixed by the synchronisation of five resignations — is the corporate record's most legible timestamp.
+
+The post-board vehicle is Positive Accounting Solutions Ltd, Companies House 07802117, active. The name describes the function with the same directness that characterises every other naming decision in this record.
+
+---
+
+### Holly Cushing
+
+Holly Cushing joins PCO as Secretary in January 2008, the month of the authentication body's incorporation. She becomes PCO Director in 2013. She exits quietly in 2019, concurrent with the Durban resignation event and the broader first-generation wind-down. The three dates — entry, promotion, exit — map her career inside the enterprise's authentication infrastructure across its full operational span.
+
+Her associated vehicle, Slap Dash Inc (Companies House 10212238, SIC 90040 artistic creation), is incorporated June 2016 and dissolved September 2025 — the same month as Moonstar Fine Arts Advisors LLC. Two vehicles in different jurisdictions dissolving in the same calendar month. BBAY Art Ltd dissolves in January 2026. The High Court proceedings become public in March 2026. The dissolution cluster's timing, across three entities in seven months, is the controlled retreat pattern running through the record's final phase.
+
+The Ant and Dec High Court proceedings name Party X and Company X without identification. Twenty-two art transactions. Fraud allegations. The structural question the proceedings open is who had the combination of authentication access and secondary market reach that the transactions require. The answer has to be someone who knew the PCO infrastructure from the inside, who had operational independence following the Lazarides separation, and whose corporate vehicle closed in the dissolution cluster ahead of the proceedings becoming public.
+
+Cushing held the PCO Secretary position from January 2008. She held the PCO Director position from 2013. Her quiet exit in 2019 places her departure concurrent with the first-generation wind-down rather than with any documented disciplinary or commercial event. Her vehicle closes September 2025, five months before BBAY Art and six months before the proceedings. The structural fit is the closest of any individual visible in the corporate record to the Party X profile. This is inference, built from the architecture of the filings, stated as inference. The proceedings will produce their own record in time.
+
+---
+
+### Steve Parkin
+
+Steve Parkin is a Newcastle publican. His entry into the record is Pro-Actif Communications Ltd — incorporated 22 October 1998 as Identity Crisis Ltd, renamed Pro-Actif eleven days later, registered in Darlington, SIC 58190 publishing, still active to the present day. That eleven-day name change is the first instance in the corporate record of the enterprise's rename practice. Parkin is there at the founding of that practice, in a vehicle that will outlast most of the entities the enterprise subsequently builds and discards.
+
+His 10-share stake in Pro-Actif vests through W&P in 2005. That stake migrates to Simon Durban in the schism renegotiation. It becomes the £560,000 intangible assets entry on Positive Accounting Solutions' 2011 opening balance sheet. The migration of the stake from Parkin to Durban is the corporate record of what the schism cost and who absorbed the settlement. The value doesn't disappear. It moves. It arrives on Durban's opening balance sheet as intangible assets because that is the accounting treatment for a stake whose value is relational rather than physical — the value of access to a corporate network, priced at settlement.
+
+His function in the enterprise is the publishing and promotional infrastructure that connects the enterprise's media relationships to its northern England operational interests. He is the least publicly visible of the principal figures, which is the point. Connective tissue does not need to be visible to do its work.
+
+In the Breaking Banksy 2.0 analysis, Parkin emerges as the most structurally plausible candidate for the Company X role in the Ant and Dec proceedings — not through any single damning document but through the architecture of what Company X would have to be. A broker-dealer network running twenty-two transactions through an unnamed entity requires infrastructure that is not officially part of the authenticated primary market but that has access to works the primary market produces. The BBAY network provides that infrastructure. Pro-Actif provides the publishing and promotional cover. Parkin, still active and still registered at Darlington after twenty-seven years, is the figure whose longevity in the record is itself the argument. This is inference, stated as inference.
+
+---
+
+### Lazarides
+
+He is a Bristol photographer from the rave scene. Dazed and Confused contributor from 1998 to 2002, freelance across the Hack editorial circle. Street art photography sold to Thrasher, Juxtapoz, The Face — self-funding through the working method of someone without institutional backing who builds his position through what his camera produces. He is working class. He is an outsider. He is exactly what the enterprise needs its public face to be, and Hirst and Hack, building their joint venture, understand that a face like theirs will not do the job that a face like his can.
+
+The Duddy Kravitz model is the right one. Mordecai Richler's Duddy mistakes access for ownership, mistakes being the person the powerful use for being one of the powerful. He works harder than anyone. He is genuinely talented. He accumulates assets. He ends up holding what turned out not to be worth what he paid for it in every sense. Laz gets the gallery. Duddy gets the land. Neither gets what the people who used them walk away with.
+
+His corporate record with the enterprise runs from the POW directorship in June 2004 through the October 2008 share buyback and Durban's March 2009 departure from LazInc. He wanted the royalty and photography role the enterprise's long-term commercial success would have made possible. He was given the gallery arrangement. The buyback is the enterprise's financial settlement of that gap. The March 2009 administrative confirmation closes the account.
+
+Post-separation, the Lazarides network runs independently and follows the enterprise's own corporate habits without quite achieving the enterprise's precision. The Outsiders and Execution Prints incorporate within one day of each other in May 2013, both at the Harrow address, both SIC 82990 — a matched satellite pair, exactly the enterprise's practice — and both dissolve on the same day in July 2015. Laz Emporium, active at Westbourne Park Villas with accounts and confirmation statement both overdue, is the longest-running personal vehicle. Object of Desire at Harrow is still active. Alchemy III Luxembourg carries him as director from March 2016 to November 2020. Rivers Threadneedle enters liquidation in February 2025.
+
+What he has said about the enterprise publicly is consistent with the structural analysis in this Codex. What he has not said is consistent with the separation agreement the October 2008 buyback implies.
+
+---
+
+### Ben Eine
+
+Ben Eine is a London-based street artist — a letterer, primarily, whose typographic street work became a significant commercial presence in the Banksy-era print market. He is a Londoner. He is not from Bristol. That distinction matters because the legend requires Bristol to be the geographic origin of the enterprise's creative core, and Eine's presence in the art department places London at the centre of the enterprise's production infrastructure rather than at its periphery.
+
+His function in the enterprise's founding period is the art department: the production layer through which the enterprise's street works were executed, the technical infrastructure that connected the artist's graphic vocabulary to the physical surfaces on which Banksy works appeared. He bent the knee — the phrase is precise here because what it describes is a person with their own established practice who accepts a subordinate operational role inside a larger enterprise. His commercial success in his own name, his subsequent elevation as an artist in the Banksy-adjacent market, and his position as an official promulgator of the Banksy legend post-separation are the rewards that the knee-bending made available.
+
+He was fired. Around 2006, Eine sold unauthorized prints through a backdoor eBay channel, violating the distribution protocols that made the authentication architecture function. The enterprise's commercial model depends on controlled distribution — the edition structures, the AP allocations, the PCO authentication — and a backdoor channel selling unauthorised works destroys the scarcity architecture on which the market price depends. Eine violated the terms. Warren, who was at the time his partner and who served as the artist's front person at POW, was fired in the same period. Two people, one event, two removals. The enterprise's disciplinary record is as legible as its corporate record once you know what you are looking at.
+
+Post-firing, Eine continued as an independent artist and as a public figure associated with the Banksy world — the satellite role that the buyout of Laz and the removal of Warren and Eine collectively established. The legend requires witnesses who were genuinely there. Eine is one of them. His utility to the legend is proportional to his genuine presence in the production infrastructure. His removal from that infrastructure is the event that made him safe to use as a public witness.
+
+---
+
+### Shepard Fairey
+
+Shepard Fairey is a Los Angeles street artist and graphic designer, founder of OBEY Giant and the studio that produced, among other things, the Obama Hope poster and the CCCP Love Is In The Air print. That last item is where his relationship to the Banksy enterprise becomes evidentially legible.
+
+CCCP Love Is In The Air is Fairey's appropriation of the Banksy Flower Thrower iconography. The digital shading is lousy — it is a Fairey studio tell, the kind of production artifact that a studio operating at volume produces when it is working from a reference image rather than from the hand of the original artist. It is not a clean copy. It is a committee rendering of an image that was itself still being resolved by committee when Fairey's studio produced its version. The CCCP print is a photograph of the enterprise's vocabulary in mid-development, before the canonical graphic resolution that Lucy McKenzie and Bernie Reid would eventually lock. It is evidence of Fairey's involvement in the development process, not evidence of his exclusion from it.
+
+The distribution infrastructure is the structural argument. Gingko Press is Fairey's publisher and global distributor. It is also the low-budget global distributor for Banksy's You Are An Acceptable Level of Threat — the W&P sequel that ran through multiple updates and retail editions across the 2010s. Juxtapoz, the magazine whose covers and editorial relationships gave the American street art market its institutional form, is owned by the same German-American publisher as Gingko. Fairey and Banksy were running through the same warehouse, the same sales representatives, the same retail accounts. They were not parallel operations that happened to share aesthetic territory. They were partners in a shared distribution ecosystem, and the CCCP appropriation is the visible seam where the partnership left a mark in the public record.
+
+The Brainwashed Life Is Beautiful works for Exit Through the Gift Shop complete the picture. The Fairey studio produced editioned canvas works attributed to the Brainwash character for the Exit narrative. His function in the enterprise's American infrastructure is the distribution and credibility node: the figure whose existing relationships with Juxtapoz, with the LA street art scene, with the gallery and publishing networks that constituted the American market for this kind of work, made the enterprise's US expansion possible without requiring its principals to build those relationships from scratch. The distribution deal with Gingko is the corporate form of that function. The CCCP appropriation is the mark it left in the visual record.
+
+---
+
+### Thierry Guetta
+
+Thierry Guetta is a French-born Los Angeles vintage clothing dealer who became, through Exit Through the Gift Shop, the character known as Mr. Brainwash. The film presents him as an obsessive documentarian of street art who transitions, under Banksy's influence and Baron Cohen's direction, into a prolific and commercially successful street artist in his own right. The transition is the film's central narrative. The film is a fiction.
+
+The key structural fact about Guetta is that he was Shepard Fairey's landlord before the film was developed. That relationship — landlord and tenant in Los Angeles, adjacent to the street art scene Fairey inhabited — is the raw material from which the Exit narrative was constructed. The documentary did not discover Guetta in the wild. It developed a character from a person who was already in the network, already adjacent to the operations the film would depict, already available as the subject the story required.
+
+The Brainwash editions produced for the film — the canvases attributed to the Brainwash character — were produced by the Fairey studio. This is the Fairey studio tell applied to the fictional artist's output: the same production infrastructure that made the CCCP Love Is In The Air produced the Brainwash works. Guetta is the front. The studio is the hand. The film presents the front as the explanation, which is the film's function.
+
+His commercial success post-Exit is genuine in the sense that the market accepted the character and bought the works. It is not genuine in the sense that the character's prolific output reflects his individual artistic production. The Brainwash model is the enterprise's own model applied at one remove: a named front, a production studio behind it, a market built on the legend of the individual rather than on the fact of collective production. The enterprise did not accidentally produce a documentary that illustrated its own operating logic. It did it on purpose.
+
+---
+
+### Jamie Hewlett
+
+Jamie Hewlett is the co-creator of Tank Girl and the visual architect of Gorillaz. In the corporate record of Pictures on Walls he is a registered shareholder — 67 shares. The majority block in the POW share structure falls one short of four times seventeen. The McKenzie allocation is seventeen shares, held separately. The Hewlett position is structurally adjacent to a fourfold McKenzie unvested allocation. In a share structure where the AP baseline runs in multiples of twenty-two and every edition number encodes a relationship, a shareholding that lands one short of a clean multiple of the McKenzie block is not a coincidence of the register.
+
+His function in the enterprise is the function of a famous person who takes a visible position precisely because visibility makes serious investigation feel unnecessary. He is too famous to be Banksy. That is the point. The three-candidate media narrative — Gunningham, Hewlett, Del Naja — is a containment structure. Gunningham absorbs working-class Bristol identification attempts. Del Naja is the Bristol intellectual red herring. Hewlett is the creative industry decoy: the candidate whose visual style has surface resonance with the Banksy aesthetic, whose public profile makes sustained secrecy structurally implausible, and whose presence in the POW share register looks like evidence of creative involvement rather than evidence of a different kind of obligation.
+
+What the record suggests about the nature of that obligation goes further than the shareholding. Damon Albarn's transformation from Blur frontman to the creative force behind a fictional animated band begins in the same period Lucy McKenzie publicly announces the end of her musical pursuits. The Noodle character — whose design changes dramatically across the Gorillaz iterations in a way that distinguishes her from the other characters, suggesting a different hand — is the trace of a creative relationship with the project that the official record does not document. If McKenzie delivered a creative contribution to Gorillaz that Albarn and Hewlett could not easily replicate, the POW shareholding is not friendship or charity. It is an obligation, maintained in corporate form, across the enterprise's commercial lifespan.
+
+Hewlett has not clarified the nature of his POW position publicly. The 67 shares have not required clarification because the narrative the media produced around his candidacy made the shareholding look like the answer to the wrong question. It is not evidence that he is Banksy. It is evidence of a relationship with the enterprise whose precise terms the share register does not fully describe.
+
+---
+
+### Robert Del Naja
+
+Robert Del Naja is 3D of Massive Attack. He is a Bristol-born artist with a legitimate graffiti background from the 1980s, a political progressive, the frontman of one of British music's most critically respected acts. He is the third candidate in the media's three-candidate false flag narrative — the intellectual's red herring, the option for the audience that wants political depth and Bristol authenticity and a cultural backstory more serious than a working-class house painter.
+
+He is not Banksy. He has no documented role in the corporate record of the enterprise. No Companies House appointment, no share registration, no address cluster connection. The corporate record describes an enterprise that runs through Maddox Street, New Street Square, Old Gloucester Street, and a set of individuals whose names appear across those addresses in combinations that are coherent and traceable. Del Naja's name is not among them.
+
+The circumstantial case for Del Naja rests on geographic correlation — Massive Attack tour dates near Banksy installation dates — and on his 2011 involvement in the backdrop for Forgive Us Our Trespassing at MOCA's Art in the Streets exhibition. He created the backdrop with Los Angeles schoolchildren. That is the extent of the documented connection to the enterprise's production. The backdrop credit was subsequently leveraged through strategic leaks into the rumour that he was Banksy — a rumour that required no action from him to sustain, only his continued existence as a plausible candidate in the same Bristol geography.
+
+What Del Naja represents in the false flag structure is the cleanest of the three decoys. Gunningham required active construction and maintenance. Hewlett required a shareholding and a public-facing POW position. Del Naja required nothing except a Bristol address and a political aesthetic that rhymed with the Banksy persona. The enterprise did not need to involve him. It needed him to exist and to remain plausible, and the media's appetite for the Bristol-intellectual narrative did the rest without any assistance from the enterprise's operational infrastructure.
+
+---
+
+### Robin Gunningham
+
+Robin Gunningham is not Banksy. He is the first false flag: a sub-par hand spray artist seeded into the street art networks as the brand's working-class Bristol frontperson. The art crews took him as fact while being paid. The legend was seeded through the networks that would carry it most efficiently, among the people who had most reason to believe it and least reason to check. His pre-incorporation costs were split between Hirst and Hack. He is a professional misdirection, and professional misdirections are maintained in the public record by the weight of their own repetition.
+
+The Guardian's 2008 identification of Gunningham as Banksy — based on the geographic correlation of his parents' Bristol address — is the containment operation reaching its intended endpoint. A named individual. A traceable address. A plausible biographical connection. The identification produces exactly the outcome the enterprise's misdirection is designed to produce: the investigation stops. The journalists file the story, the story runs, and the question is answered to the satisfaction of an audience that did not need the answer to be correct, only plausible.
+
+The graphic record is the refutation. The Banksy visual vocabulary requires a painter who can approximate the visual appearance of stencilled spray paint through hand-applied media with trompe l'oeil precision and fine art training visible in every line. Gunningham's work, where it exists in the record, does not match that requirement. The mismatch is the point. He was never designed to hold up under close graphic analysis. He was designed to hold up under journalism, which operates at a different resolution and requires only a name to attach to a file.
+
+The corporate record describes an enterprise that Gunningham could not have built. Turtleneck, Pro-Actif, GBFTCU, PCO, POW — the entity network of the enterprise requires principals with the institutional connections, financial backing, and legal infrastructure to incorporate, administer, and dissolve companies across multiple jurisdictions over twenty-seven years. A Bristol graffiti artist does not build that network. The people whose names are in the filings build that network. Gunningham's name is not in the filings. His function was to keep everyone from looking for whose names were.
+
+The investigation looked anyway. The names are Scottish.
+
+---
+
+*— Character Summaries of The Banksy Codex. The record is complete.*
