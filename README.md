@@ -16,7 +16,7 @@
 - [Appendix 2 — VIP Rounds](#appendix-2--vip-rounds "Appendix 2 — VIP Rounds")
 - [Appendix 3 — The Corporate Map](#appendix-3--the-corporate-map "Appendix 3 — The Corporate Map") 
 - [Corporate Timeline](#corporate-timeline "Corporate Timeline") 
-- [Character Summaries](#character-summaries "Character Summaries") *(forthcoming)*
+- [Character Summaries](#character-summaries "Character Summaries") 
 
 ---
 
@@ -722,7 +722,7 @@ In the Breaking Banksy 2.0 analysis, Parkin emerges as the most structurally pla
 
 ---
 
-### Lazarides
+### Steve Lazarides
 
 He is a Bristol photographer from the rave scene. Dazed and Confused contributor from 1998 to 2002, freelance across the Hack editorial circle. Street art photography sold to Thrasher, Juxtapoz, The Face — self-funding through the working method of someone without institutional backing who builds his position through what his camera produces. He is working class. He is an outsider. He is exactly what the enterprise needs its public face to be, and Hirst and Hack, building their joint venture, understand that a face like theirs will not do the job that a face like his can.
 
